@@ -2,7 +2,7 @@ package com.wipro.bank.main;
 
 import java.util.Scanner;
 
-import com.wipro.bank.service.BankService;
+import com.wipro.bank.service.BankService
 
 public class MainClass {
 	public static void main(String[] args) {
